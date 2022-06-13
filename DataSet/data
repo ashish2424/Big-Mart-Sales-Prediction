@@ -1,6 +1,0 @@
-pip install faster_than_csv
-import faster_than_csv as csv
-csv.csv2list("test_AbJTz2l.csv") 
-
-
-
